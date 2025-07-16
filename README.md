@@ -4,5 +4,5 @@ Home
 About
 Projects
 Contact me
-Through About section anyone can downloaf my resume. 
+Through About section anyone can download my resume. 
 Through Projects Section anyone can see my projects images and thier github link. 
